@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">Discord Webhook</string>
+    <string id="webhookUrl">Webhook URL</string>
+    <string id="username">Username</string>
+    <string id="avatarUrl">Avatar URL</string>
+    <string id="content">Content</string>
+    <string id="label">Send Webhook</string>
+</strings>

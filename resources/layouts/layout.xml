@@ -1,0 +1,3 @@
+<layout id="MainLayout">
+    <bitmap id="send" x="center" y="center" filename="../images/send.png" />
+    <label id="label" x="center" y="35" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.label"></label></layout>
